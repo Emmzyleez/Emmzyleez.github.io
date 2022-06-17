@@ -32,6 +32,7 @@ h2 {
     border-radius: 50px;
     color: hsl(31, 78%, 52%);
     margin: 70px 30px;
+    border: none;
 }
 
 #button2{
@@ -39,6 +40,7 @@ h2 {
     border-radius: 50px;
     color: hsl(184, 100%, 22%);
     margin: 70px 30px;
+    border: none;
 }
 
 #button3{
@@ -46,6 +48,7 @@ h2 {
     border-radius: 50px;
     color: hsl(179, 100%, 13%); 
     margin: 70px 30px;
+    border: none;
 }
 
 

@@ -27,6 +27,15 @@ h2 {
     font-size: 40px;
 }
 
+a{
+    float: right;
+    font-size: 40px;
+}
+
+a:hover{
+    color: red;
+}
+
 #button1{
     padding: 7% 16%;
     border-radius: 50px;
